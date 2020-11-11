@@ -1,0 +1,8 @@
+{
+  "short_name": "UAPFF Studio",
+  "name": "Designa din egen UAPFF logga",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
